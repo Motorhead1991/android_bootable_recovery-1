@@ -11,8 +11,8 @@
 
 	<resources>
 		<resource name="font" type="font" filename="Roboto-Condensed-16" />
-		<resource name="mediumfont" type="font" filename="Roboto-Condensed-14" />
-		<resource name="filelist" type="font" filename="Roboto-Condensed-14" />
+		<resource name="mediumfont" type="font" filename="Roboto-Condensed-12" />
+		<resource name="filelist" type="font" filename="Roboto-Condensed-12" />
 		<resource name="top_bar" type="image" filename="top-bar.jpg" />
 		<resource name="main_button" type="image" filename="menu-button" />
 		<resource name="file_icon" type="image" filename="file" />
@@ -43,9 +43,9 @@
 	</resources>
 
 	<variables>
-		<variable name="col1_x" value="8" />
-		<variable name="col2_x" value="162" />
-		<variable name="col_center_x" value="85" />
+		<variable name="col1_x" value="6" />
+		<variable name="col2_x" value="126" />
+		<variable name="col_center_x" value="62" />
 		<variable name="col_center_medium_x" value="122" />
 		<variable name="center_x" value="120" />
 		<variable name="row1_y" value="62" />
