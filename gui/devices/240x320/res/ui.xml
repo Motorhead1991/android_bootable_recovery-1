@@ -2,7 +2,7 @@
 
 <recovery>
 	<details>
-		<resolution width="320" height="480" />
+		<resolution width="240" height="320" />
 		<author>TeamWin</author>
 		<title>Backup Naowz</title>
 		<description>Default basic theme</description>
