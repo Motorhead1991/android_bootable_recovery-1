@@ -48,10 +48,10 @@
 		<variable name="col_center_x" value="62" />
 		<variable name="col_center_medium_x" value="122" />
 		<variable name="center_x" value="120" />
-		<variable name="row1_y" value="90" />
-		<variable name="row2_y" value="170" />
-		<variable name="row3_y" value="210"/>
-		<variable name="row4_y" value="250" />
+		<variable name="row1_y" value="70" />
+		<variable name="row2_y" value="120" />
+		<variable name="row3_y" value="180" />
+		<variable name="row4_y" value="240" />
 		<variable name="row_queue_y" value="306" />
 		<variable name="row1_header_y" value="64" />
 		<variable name="row1_text_y" value="85" />
@@ -100,7 +100,7 @@
 		<variable name="caps_highlight_color" value="#33B5E580" />
 		<variable name="home_button_x" value="7" />
 		<variable name="home_button_y" value="300" />
-		<variable name="back_button_x" value="280" />
+		<variable name="back_button_x" value="220" />
 		<variable name="back_button_y" value="300" />
 		<variable name="sort_text_x" value="8" />
 		<variable name="sort_asc_text_y" value="411" />
