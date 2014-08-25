@@ -10,7 +10,7 @@
 	</details>
 
 	<resources>
-		<resource name="font" type="font" filename="Roboto-Condensed-16" />
+		<resource name="font" type="font" filename="Roboto-Condensed-12" />
 		<resource name="mediumfont" type="font" filename="Roboto-Condensed-12" />
 		<resource name="filelist" type="font" filename="Roboto-Condensed-12" />
 		<resource name="top_bar" type="image" filename="top-bar.jpg" />
@@ -48,10 +48,10 @@
 		<variable name="col_center_x" value="62" />
 		<variable name="col_center_medium_x" value="122" />
 		<variable name="center_x" value="120" />
-		<variable name="row1_y" value="62" />
-		<variable name="row2_y" value="127" />
-		<variable name="row3_y" value="195"/>
-		<variable name="row4_y" value="263" />
+		<variable name="row1_y" value="70" />
+		<variable name="row2_y" value="110" />
+		<variable name="row3_y" value="150"/>
+		<variable name="row4_y" value="190" />
 		<variable name="row_queue_y" value="306" />
 		<variable name="row1_header_y" value="64" />
 		<variable name="row1_text_y" value="85" />
@@ -90,7 +90,7 @@
 		<variable name="row6_medium_y" value="303" />
 		<variable name="row7_medium_y" value="348" />
 		<variable name="slider_x" value="39" />
-		<variable name="slider_y" value="400" />
+		<variable name="slider_y" value="250" />
 		<variable name="slider_text_y" value="425" />
 		<variable name="button_text_color" value="#AAAAAA" />
 		<variable name="text_color" value="#FFFFFF" />
@@ -99,9 +99,9 @@
 		<variable name="highlight_color" value="#90909080" />
 		<variable name="caps_highlight_color" value="#33B5E580" />
 		<variable name="home_button_x" value="7" />
-		<variable name="home_button_y" value="460" />
-		<variable name="back_button_x" value="275" />
-		<variable name="back_button_y" value="460" />
+		<variable name="home_button_y" value="300" />
+		<variable name="back_button_x" value="125" />
+		<variable name="back_button_y" value="300" />
 		<variable name="sort_text_x" value="8" />
 		<variable name="sort_asc_text_y" value="411" />
 		<variable name="sort_asc_button_y" value="411" />
@@ -110,13 +110,13 @@
 		<variable name="sort_col1_button_x" value="120" />
 		<variable name="sort_col2_button_x" value="160" />
 		<variable name="sort_col3_button_x" value="200" />
-		<variable name="input_width" value="307" />
+		<variable name="input_width" value="207" />
 		<variable name="input_height" value="24" />
 		<variable name="input_background_color" value="#303030" />
 		<variable name="input_cursor_color" value="#33B5E5" />
 		<variable name="input_cursor_width" value="2" />
 		<variable name="console_x" value="0" />
-		<variable name="console_width" value="320" />
+		<variable name="console_width" value="240" />
 		<variable name="console_foreground" value="#A0A0A0" />
 		<variable name="console_background" value="#303030" />
 		<variable name="console_scroll" value="#303030" />
